@@ -21,5 +21,5 @@ python inventori.py
 - info.txt → identitas pembuat
 
 ## NIM & Nama
-NIM: 12345678  
-Nama: Nama Anda
+NIM: 24110031012  
+Nama: DENDI SANTOSO
