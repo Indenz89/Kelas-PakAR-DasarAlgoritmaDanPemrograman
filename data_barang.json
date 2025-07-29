@@ -1,0 +1,12 @@
+[
+    {
+        "nama": "Sabun",
+        "stok": 20,
+        "harga": 2500
+    },
+    {
+        "nama": "Sikat Gigi",
+        "stok": 10,
+        "harga": 3000
+    }
+]
